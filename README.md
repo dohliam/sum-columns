@@ -8,7 +8,7 @@ There are an infinite number of ways to do this, of course, but I got tired of f
 
 * Live search (results update as you type)
 * Works offline (just clone or download this repository and open `index.html` in any browser)
-* [Online demo](https://dohliam.github.io/tiny_tools/sum) available
+* [Online demo](https://dohliam.github.io/tiny_tools/sum/) available
 * Display total number of values summed (useful for calculating averages)
 * Advanced options: specify field separator and field to sum
 
@@ -32,7 +32,7 @@ The value in the _Field to sum_ box should specify the number of the column to s
 
 ## See also
 
-"Sum columns" is part of the **tiny tools** series.
+"Sum columns" is part of the [**tiny tools**](https://dohliam.github.io/tiny_tools/) series.
 
 Other small tools for working with columns of data that might also be of interest:
 
